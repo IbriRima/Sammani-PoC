@@ -13,7 +13,7 @@
    
    ## Mobile app description
    Implementation of  a mobile application so that our solution will reach a bigger number of people.
-    - <strong>First interface</strong>
+   ## - <strong>First interface</strong>
    The first Interface is the main page where the user chooses his role,whether he is a patient or a doctor.      
     - <strong>Second interface</strong>
     If the user chose the doctor role he will be directed to an interface where he must enter a code  in order to open a temporary session to facilitate the communication with his patient 
