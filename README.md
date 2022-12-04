@@ -8,7 +8,7 @@ As a first step, we have decided to limit ourselves to the context of a medical 
    ## Building from Scratch
    We were able to find <strong>"Medical Dictionary in Tunisian Sign Languages"</strong> a dictionnary created by the IFT making the translation from french to Tunisian Sign Language
    ## Already Available Ressources
-   As described this booklet contains 160 words used in the context of a medical consultation with their respective signs. By asking a doctor, we've sampled 16 relevant words as a starting size for our vocabulary.
+   This booklet contains 160 words used in the context of a medical consultation with their respective signs. By asking a doctor, we've sampled 16 relevant words as a starting size for our vocabulary.
 
 
 ## Video shooting guidlines
@@ -20,7 +20,6 @@ These are the rules we imposed when we shot the videos:
 - Orientation: vertical
 
 ## Contacts
-These are the various individuals and entities that helped us on this process
+These are the various individuals and entities that may help us go further in this project by providinng us with other recorded videos
 - Association Voix du Sourd de Tunisie.
 - Association Tunisienne des Interprètes en Langues des Signes.
-- Syrine Ben Othman (Family doctor).
