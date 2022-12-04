@@ -19,8 +19,13 @@
     If the user chose the doctor role he will be directed to an interface where he must enter a code  in order to open a temporary session to facilitate the communication with his patient 
    ###  - <strong>Third interface</strong>
      If the code written by the doctor is the same as the one the patient have , then he will be redirected to the third interface, where he can do both talking and understanding of the patient.
+     
    #### Understanding the patient 
      This is when the doctor chooses to capture the patient's movements and there will be real time pattern recognition translating the movements into a text.
+   ## Used model
+     We needed to use a trained model like I3D because our dataset was still so small.
+     I3D was trained on the American Sign Language dataset, and it is based on 3D convolutional layers, which will enable us to capture the temporary change of the different fixed points on our extracted frames.
+     I3D needed to get tuned so he could adapt to our data filmed at a different resolution.
    #### Talking to the patient 
      In this part the doctor will record his voice and with real time speech recognition his voice would be intrepreted at the same time into a sign language video so the patient would understand what the doctor is saying.
    ###  - <strong>Fourth interface</strong>
