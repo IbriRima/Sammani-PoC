@@ -11,10 +11,25 @@
    ## Already Available Ressources
    This booklet contains 160 words used in the context of a medical consultation with their respective signs. By asking a doctor, we've sampled 16 relevant words as a starting size for our vocabulary.
    
-      
-     
-     
-
+   ## Mobile app description
+   Implementation of  a mobile application so that our solution will reach a bigger number of people.
+    - <strong>First interface</strong>
+   The first Interface is the main page where the user chooses his role,whether he is a patient or a doctor.      
+    - <strong>Second interface</strong>
+    If the user chose the doctor role he will be directed to an interface where he must enter a code  in order to open a temporary session to facilitate the communication with his patient 
+     - <strong>Third interface</strong>
+     If the code written by the doctor is the same as the one the patient have , then he will be redirected to the third interface, where he can do both talking and understanding of the patient.
+   ## Understanding the patient 
+     This is when the doctor chooses to capture the patient's movements and there will be real time pattern recognition translating the movements into a text.
+   ## Talking to the patient 
+     In this part the doctor will record his voice and with real time speech recognition his voice would be intrepreted at the same time into a sign language video so the patient would understand what the doctor is saying.
+     - <strong>Fourth interface</strong>
+     This when the user chose the patient role , he will be directed to an interface , where : 
+      A live video interpreting the docotr's voice into sign language.
+      A random code that is only available for an hour.
+      An info sign so he will be directed to the Fifth Interface.
+      - <strong>Fifth interface</strong>
+      We will provide users with more ressources on sign language qnd on how to use the application.
 ## Video shooting guidlines
 These are the rules we imposed when we shot the videos:
 - FPS (frames per second): 30
