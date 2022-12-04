@@ -10,11 +10,10 @@
    We were able to find <strong>"Medical Dictionary in Tunisian Sign Languages"</strong> a dictionnary created by the IFT making the translation from french to Tunisian Sign Language
    ## Already Available Ressources
    This booklet contains 160 words used in the context of a medical consultation with their respective signs. By asking a doctor, we've sampled 16 relevant words as a starting size for our vocabulary.
-   ## Mobile app description
    
-    <strong>First interface</strong>
-   
-
+      
+     
+     
 
 ## Video shooting guidlines
 These are the rules we imposed when we shot the videos:
